@@ -54,13 +54,20 @@ Logs user withdrawals from their savings.
 
 ## Tools
 
-- MySQL (via SQL queries)
-- Google Colab (Python + SQLalchemy or ipython-sql)
+- MySQL (data stored in a MySQL database)
+- Google Colab ( pymysql, sqlalchemy, pandas)
 
 ## Usage
 
-Run queries using your preferred SQL client or from a Google Colab notebook to extract insights.
+Run queries using your preferred SQL queries from a Google Colab notebook to extract insights.
 
 ## Author
 
-This analysis was conducted by an individual contributor using data from the Adashi staging environment.
+ -This analysis was by Fransisca Iloh an individual contributor using data from the Adashi staging environment.
+
+##📬 Contact
+ - For questions or collaboration:
+
+## Name: Iloh Fransisca
+## Email: ilohfransisca2014@gmail.com
+## LinkedIn: linkedin.com/in/fransisca-iloh

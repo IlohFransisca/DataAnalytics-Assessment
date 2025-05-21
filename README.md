@@ -59,14 +59,14 @@ Logs user withdrawals from their savings.
 
 ## Usage
 
-Run queries using your preferred SQL queries from a Google Colab notebook to extract insights.
+- Run queries using your preferred SQL queries from a Google Colab notebook to extract insights.
 
 ## Author
 
- -This analysis was by Fransisca Iloh an individual contributor using data from the Adashi staging environment.
+- This analysis was by Fransisca Iloh an individual contributor using data from the Adashi staging environment.
 
 ## Contact
- - For questions or collaboration:
+- For questions or collaboration:
 
 ## Name: Iloh Fransisca
 ## Email: ilohfransisca2014@gmail.com

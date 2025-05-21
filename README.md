@@ -65,7 +65,7 @@ Run queries using your preferred SQL queries from a Google Colab notebook to ext
 
  -This analysis was by Fransisca Iloh an individual contributor using data from the Adashi staging environment.
 
-##📬 Contact
+## Contact
  - For questions or collaboration:
 
 ## Name: Iloh Fransisca

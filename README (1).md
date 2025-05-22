@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains SQL queries for analyzing data from a savings and withdrawal platform, using the `adashi_staging` MySQL database. The analysis was conducted individually in **Google Colab**, using `pymysql`, `sqlalchemy`, and SQL scripts to explore the schema.
+This repository contains SQL queries for analyzing data from a savings and withdrawal platform, using the `adashi_staging` MySQL database. The analysis was conducted in **Google Colab**, using `pymysql`, `sqlalchemy`, and SQL scripts to explore the schema.
 
 The database includes four core tables:
 - `users_customuser`
@@ -17,7 +17,7 @@ The database includes four core tables:
 ### Q1: Users With At Least One Savings Plan
 
 **File**: `Assessment_Q1.sql`  
-**Description**: This query selects distinct users who have savings plans by checking the relationship between `users_customuser` and `savings_savingsaccount`. We perform an inner join to ensure only users with savings activity are selected.
+**Description**: This query selects distinct users who have savings plans by checking the relationship between `users_customuser` and `savings_savingsaccount`. Performed an inner join to ensure only users with savings activity are selected.
 
 ---
 
@@ -55,4 +55,4 @@ All queries were run on the `adashi_staging` MySQL database hosted locally.
 
 ## Author
 
-This analysis and submission were performed independently by the candidate as part of the Adashi Data Analyst Assessment.
+This analysis and submission were performed by Iloh Fransisca as part of the Adashi Data Analyst Assessment.
